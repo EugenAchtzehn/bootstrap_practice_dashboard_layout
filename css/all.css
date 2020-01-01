@@ -1,0 +1,19 @@
+html {
+  font-size: 14px;
+}
+
+div,
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Arial, Helvetica, "Microsoft JhengHei", sans-serif;
+}
+
+.main {
+  min-height: calc(100vh - (49px + 49px + 42px + 14px));
+}
